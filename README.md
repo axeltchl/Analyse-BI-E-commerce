@@ -7,7 +7,7 @@ Projet BI permettant d'analyser les ventes, la compréhension des clients et ide
 ## Fonctionnalités
 - Analyse des ventes
 - KPIs principaux (CA, panier moyen, Taux d'abandaon...)
-- Analyse selon différent axes
+- Analyse selon différents axes
 - Visualisations interactives
 
 
