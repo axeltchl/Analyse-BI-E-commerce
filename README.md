@@ -8,7 +8,7 @@ Projet BI permettant d'analyser les ventes, la compréhension des clients et ide
 - Analyse des ventes
 - KPIs principaux
 - Visualisations interactives
-- Analyse selon
+- Analyse selon différent axes
 
 ## Outils utilisés
 - Power BI
@@ -16,8 +16,11 @@ Projet BI permettant d'analyser les ventes, la compréhension des clients et ide
 - DAX
 
 ## Fichiers
-- `Dashboard.pbix` : fichier principal Power BI
-- `données/` : jeux de données utilisés
+- `PowerBI_Project/ Analyse e-commerce.pbix` : fichier principal Power BI
+  Télécharger ce fichier ici :
+  https://1drv.ms/f/c/a6539f10e172a813/IgDFIYuo7U5RTbU4Ca5pYIgjAdAQFnCo5rb56pUa7HCbTkA?e=AckghN
+  
+- `Données/` : jeux de données utilisés
 
 ## Comment utiliser le projet
 1. Télécharger le repository
