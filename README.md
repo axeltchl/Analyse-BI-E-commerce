@@ -6,9 +6,10 @@ Projet BI permettant d'analyser les ventes, la compréhension des clients et ide
 
 ## Fonctionnalités
 - Analyse des ventes
-- KPIs principaux
-- Visualisations interactives
+- KPIs principaux (CA, panier moyen, Taux d'abandaon...)
 - Analyse selon différent axes
+- Visualisations interactives
+
 
 ## Outils utilisés
 - Power BI
@@ -17,7 +18,8 @@ Projet BI permettant d'analyser les ventes, la compréhension des clients et ide
 
 ## Fichiers
 - `PowerBI_Project/ Analyse e-commerce.pbix` : fichier principal Power BI
-  Télécharger ce fichier ici :
+
+- Télécharger ce fichier principal ici :
   https://1drv.ms/f/c/a6539f10e172a813/IgDFIYuo7U5RTbU4Ca5pYIgjAdAQFnCo5rb56pUa7HCbTkA?e=AckghN
   
 - `Données/` : jeux de données utilisés
